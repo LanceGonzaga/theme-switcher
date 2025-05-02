@@ -1,4 +1,4 @@
-# Theme Switcher App (React + Context API + Custom Hook)
+# Theme Switcher App 
 
 ## Overview
 
